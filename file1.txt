@@ -1,4 +1,6 @@
-iniat file1.txt
+here is my file1.txt
+line1
+line2 
+line 3
 line4
-line5
-line6
+
